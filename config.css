@@ -1,0 +1,113 @@
+header{
+    height: 70px;
+    background-color: #000000c4;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 2px;
+    text-align: center;
+    position: sticky;
+    top:0
+}
+header img{
+    width: 37px;
+}
+header h1{
+    color:#5dff4f ;
+    margin:  0px auto ;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: Fantasy, Tahoma, sans-serif;
+}
+h2{
+  font-size: 30px;
+    text-align: center;
+    font-family: Cambria, Tahoma, sans-serif;
+}
+h3{
+  font-size: 25px;
+    text-align: center;
+    font-family: Cambria, Tahoma, sans-serif;
+}
+h4{
+  font-size: 20px;
+   text-align: center;
+
+}
+table{
+       margin:auto;
+}
+
+div#texto{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    text-align: justify;
+    padding: 5px;
+    background-color: #000000c4;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+}
+div#texto img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul#menu{
+
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+
+}
+ul#menu li{
+    display: inline-block;
+
+    background-color:#a0a0a0 ;
+    text-align: center;
+    width: 120px;
+    padding: 3px 8px;
+    color: #ffffff;
+    font-size:15px ;
+}
+
+ul#menu li:hover{
+    background-color:#6d6d6d ;
+    color: #5dff4f;
+}
+ul#suma{
+
+    display: table;
+    margin: 0 0;
+    list-style-type: none;
+    padding: 0 0;
+
+}
+ul#suma a{
+    text-decoration: none;
+}
+ul#suma li{
+    display: block;
+    background-color: #32CD32 ;
+    color: #1C1C1C;
+    text-align: center;
+    width: 150px;
+    padding: 10px 8px;
+    font-size:15px ;
+    font-family: Candara, Tahoma, sans-serif;
+
+}
+
+ul#suma li:hover{
+    background-color:#33b328 ;
+
+}
+body{
+    font-family: Calibri, Tahoma, sans-serif;
+    background-image: url('imgs/placaM.jpeg');
+    font-size:17px;
+}
